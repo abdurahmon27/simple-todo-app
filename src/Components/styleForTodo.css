@@ -1,0 +1,23 @@
+body {
+  background-color: #484848;
+}
+.todo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 700px;
+  min-height: 300px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #000;
+  background-color: #ffffff;
+}
+button {
+  box-shadow: 0 0 3px #484848;
+}
+form {
+  margin-top: 10px;
+  box-shadow: 0 0 5px #484848;
+  padding: 5px 25px 5px 25px;
+  border-radius: 5px;
+}
